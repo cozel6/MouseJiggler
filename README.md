@@ -10,7 +10,6 @@ Mouse Jiggler 3000 is the ultimate tool to keep your computer active while youâ€
 - **Random Mouse Movements**: Simulate natural mouse activity to avoid detection.
 - **"Meeting Mode"**: Random clicks during presentations or idle screens to mimic engagement.
 - **"Deep Work Vibes"**: Periodic and realistic pauses between movements.
-- **Customizable Intervals**: Set how often the jiggler operates.
 - **Lightweight and Stealthy**: Runs quietly in the background with minimal resource usage.
 
 ---
