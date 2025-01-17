@@ -14,13 +14,13 @@ namespace MouseJiggler
 
         private void btnStart_Click(object sender, RoutedEventArgs e)
         {
-            // Pornim jiggler-ul
+            // Start
             _jiggler.Start();
         }
 
         private void btnStop_Click(object sender, RoutedEventArgs e)
         {
-            // Oprim jiggler-ul
+            // Stop
             _jiggler.Stop();
         }
     }
